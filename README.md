@@ -1,6 +1,7 @@
 # Image-Classifier
 Image Classification System Using Convolutional Neural Networks (CNNs)
-
+![Dog Identified](screenshots/p3.png)
+![Cat Identified](screenshots/p2.png)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
