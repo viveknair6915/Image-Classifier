@@ -42,7 +42,7 @@ This project implements an image classification system using Convolutional Neura
 3. Open your web browser and go to `http://localhost:5000`.
 
 ## Project Structure
-- `static/`: Contains static files (e.g., CSS, images).
+- `dataset/`: Contains static files (e.g., CSS, images).
 - `templates/`: Contains HTML templates for the web application.
 - `Model_Train.ipynb`: Jupyter Notebook for training the CNN model.
 - `app.py`: Flask web application script.
